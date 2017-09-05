@@ -1,0 +1,6 @@
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.exe.config
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.csprojResolveAssemblyReference.cache
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.exe
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.pdb
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.exe
+c:\users\govgo\documents\visual studio 2013\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.pdb
